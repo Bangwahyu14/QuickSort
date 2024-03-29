@@ -7,5 +7,9 @@ int mov_cout = 0;
 int;
 
 void input() {
-	wwhile (true)
+	wwhile(true) 
+	{
+		cout << "masukan panjang element array";
+		cin >> n;
+	}
 }
